@@ -1,0 +1,287 @@
+F:/mygame/dungeon/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:/mygame/dungeon/Temp/bin/Debug/Assembly-CSharp.dll
+F:/mygame/dungeon/Temp/bin/Debug/Assembly-CSharp.pdb
+F:/mygame/dungeon/Temp/bin/Debug/UnityEditor.dll
+F:/mygame/dungeon/Temp/bin/Debug/UnityEngine.dll
+F:/mygame/dungeon/Temp/bin/Debug/UnityEngine.Networking.dll
+F:/mygame/dungeon/Temp/bin/Debug/UnityEngine.UI.dll
+F:/mygame/dungeon/Temp/bin/Debug/Mono.Cecil.dll
+F:/mygame/dungeon/Temp/bin/Debug/Unity.SerializationLogic.dll
+F:/mygame/dungeon/Temp/bin/Debug/Unity.DataContract.dll
+F:/mygame/dungeon/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+F:/mygame/dungeon/Temp/bin/Debug/Unity.UNetWeaver.dll
+F:/mygame/dungeon/Temp/bin/Debug/Unity.CecilTools.dll
+F:/mygame/dungeon/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+F:/mygame/dungeon/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+F:/mygame/dungeon/Temp/bin/Debug/UnityEngine.xml
+F:/mygame/dungeon/Temp/bin/Debug/UnityEditor.xml
+F:/mygame/dungeon/Temp/bin/Debug/UnityEngine.UI.xml
+F:/mygame/dungeon/Temp/bin/Debug/UnityEngine.Networking.xml
+F:/mygame/dungeon/obj/Debug/Assembly-CSharp.dll
+F:/mygame/dungeon/obj/Debug/Assembly-CSharp.pdb
+F:/dungeon/Temp/bin/Debug/Assembly-CSharp.dll
+F:/dungeon/Temp/bin/Debug/Assembly-CSharp.pdb
+F:/dungeon/Temp/bin/Debug/UnityEditor.dll
+F:/dungeon/Temp/bin/Debug/UnityEngine.dll
+F:/dungeon/Temp/bin/Debug/UnityEngine.Networking.dll
+F:/dungeon/Temp/bin/Debug/UnityEngine.UI.dll
+F:/dungeon/Temp/bin/Debug/Mono.Cecil.dll
+F:/dungeon/Temp/bin/Debug/Unity.SerializationLogic.dll
+F:/dungeon/Temp/bin/Debug/Unity.DataContract.dll
+F:/dungeon/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+F:/dungeon/Temp/bin/Debug/Unity.UNetWeaver.dll
+F:/dungeon/Temp/bin/Debug/Unity.CecilTools.dll
+F:/dungeon/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+F:/dungeon/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+F:/dungeon/Temp/bin/Debug/UnityEngine.xml
+F:/dungeon/Temp/bin/Debug/UnityEditor.xml
+F:/dungeon/Temp/bin/Debug/UnityEngine.UI.xml
+F:/dungeon/Temp/bin/Debug/UnityEngine.Networking.xml
+F:/dungeon/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:/dungeon/obj/Debug/Assembly-CSharp.dll
+F:/dungeon/obj/Debug/Assembly-CSharp.pdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Boo.Lang.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/mscorlib.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/System.Core.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/System.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/System.Xml.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Unity.Locator.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEditor.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.WebModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityScript.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Vuforia.UnityExtensions.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Unity.Cecil.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Unity.DataContract.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Mono.Security.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEditor.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEditor.StandardEvents.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.FacebookModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.WebModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.WebModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UIAutomation.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.UIAutomation.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Vuforia.UnityExtensions.xml
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.Purchasing.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/obj/Debug/Assembly-CSharp.csproj.CopyComplete
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/obj/Debug/Assembly-CSharp.dll
+/Users/lukas_wang/Unity Files/Roguelike Dungeon/obj/Debug/Assembly-CSharp.pdb
